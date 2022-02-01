@@ -1,0 +1,67 @@
+2021-12-13/17:24:00		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:24:00		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:25:03		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:25:03		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:26:36		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:26:36		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:27:44		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:27:44		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:28:54		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:28:54		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:29:45		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:29:45		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:33:38		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:33:38		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:35:06		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:35:07		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:49:13		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:49:13		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:50:21		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:50:21		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:52:24		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:52:24		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:53:44		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:53:44		Good Raw Directory Deleted Successfully!!
+2021-12-13/17:54:32		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/17:54:33		Good Raw Directory Deleted Successfully!!
+2021-12-13/18:20:07		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/18:20:07		Good Raw Directory Deleted Successfully!!
+2021-12-13/18:21:10		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/18:21:10		Good Raw Directory Deleted Successfully!!
+2021-12-13/18:48:17		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/18:48:17		Good Raw Directory Deleted Successfully!!
+2021-12-13/18:53:39		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/18:53:39		Good Raw Directory Deleted Successfully!!
+2021-12-13/18:57:11		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-13/18:57:11		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:13:18		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-15/08:13:18		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:22:00		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-15/08:22:00		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:25:28		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-15/08:25:28		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:28:53		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-15/08:28:53		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:29:12		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-15/08:30:24		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:30:43		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-15/08:30:43		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2021-12-15/08:31:15		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:31:34		Bad_Raw  Directory deleted Successfully Before starting validation!!!
+2021-12-15/08:31:34		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2021-12-15/08:33:01		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:33:19		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:33:19		Bad files moved to archive
+2021-12-15/08:33:19		Bad Raw Data Folder Deleted successfully!!
+2021-12-15/08:37:26		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:37:26		Bad files moved to archive
+2021-12-15/08:37:26		Bad Raw Data Folder Deleted successfully!!
+2021-12-15/08:40:59		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:40:59		Bad files moved to archive
+2021-12-15/08:40:59		Bad Raw Data Folder Deleted successfully!!
+2021-12-15/08:46:55		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:46:55		Bad files moved to archive
+2021-12-15/08:46:55		Bad Raw Data Folder Deleted successfully!!
+2021-12-15/08:51:12		Good Raw Directory Deleted Successfully!!
+2021-12-15/08:51:13		Bad files moved to archive
+2021-12-15/08:51:13		Bad Raw Data Folder Deleted successfully!!

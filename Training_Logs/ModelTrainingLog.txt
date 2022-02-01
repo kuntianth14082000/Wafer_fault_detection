@@ -1,0 +1,741 @@
+2021-12-01/16:06:33		Start of training!!
+2021-12-01/16:06:33		Entered the get data method of the Data_Getter class
+2021-12-01/16:09:07		Start of training!!
+2021-12-01/16:09:07		Entered the get data method of the Data_Getter class
+2021-12-01/16:09:07		Start of training!!
+2021-12-01/16:09:07		Entered the get data method of the Data_Getter class
+2021-12-01/16:10:17		Start of training!!
+2021-12-01/16:10:17		Entered the get data method of the Data_Getter class
+2021-12-01/16:10:23		Start of training!!
+2021-12-01/16:10:23		Entered the get data method of the Data_Getter class
+2021-12-01/16:10:39		Start of training!!
+2021-12-01/16:10:39		Entered the get data method of the Data_Getter class
+2021-12-01/16:17:44		Start of training!!
+2021-12-01/16:17:44		Entered the get data method of the Data_Getter class
+2021-12-01/16:23:47		Start of training!!
+2021-12-01/16:23:47		Entered the get data method of the Data_Getter class
+2021-12-01/16:26:57		Start of training!!
+2021-12-01/16:26:57		Entered the get data method of the Data_Getter class
+2021-12-01/16:27:01		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/16:27:45		Start of training!!
+2021-12-01/16:27:45		Entered the get data method of the Data_Getter class
+2021-12-01/16:27:48		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:08:56		Start of training!!
+2021-12-01/17:08:56		Entered the get data method of the Data_Getter class
+2021-12-01/17:09:00		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:09:07		Start of training!!
+2021-12-01/17:09:07		Entered the get data method of the Data_Getter class
+2021-12-01/17:09:12		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:12:18		Start of training!!
+2021-12-01/17:12:18		Entered the get data method of the Data_Getter class
+2021-12-01/17:12:23		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:12:23		Start of training!!
+2021-12-01/17:12:23		Entered the get data method of the Data_Getter class
+2021-12-01/17:12:27		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:28:20		Start of training!!
+2021-12-01/17:28:20		Entered the get data method of the Data_Getter class
+2021-12-01/17:28:25		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:31:47		Start of training!!
+2021-12-01/17:31:47		Entered the get data method of the Data_Getter class
+2021-12-01/17:31:52		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:56:42		Start of training!!
+2021-12-01/17:56:42		Entered the get data method of the Data_Getter class
+2021-12-01/17:56:48		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:56:48		Start of training!!
+2021-12-01/17:56:48		Entered the get data method of the Data_Getter class
+2021-12-01/17:56:52		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:58:39		Start of training!!
+2021-12-01/17:58:39		Entered the get data method of the Data_Getter class
+2021-12-01/17:58:43		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:58:43		Entered the remove_column method of the preprocessor class
+2021-12-01/17:58:43		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/17:58:43		Start of training!!
+2021-12-01/17:58:43		Entered the get data method of the Data_Getter class
+2021-12-01/17:58:49		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:58:49		Entered the remove_column method of the preprocessor class
+2021-12-01/17:58:49		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/17:59:19		Start of training!!
+2021-12-01/17:59:19		Entered the get data method of the Data_Getter class
+2021-12-01/17:59:24		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:59:24		Entered the remove_column method of the preprocessor class
+2021-12-01/17:59:24		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/17:59:26		Start of training!!
+2021-12-01/17:59:26		Entered the get data method of the Data_Getter class
+2021-12-01/17:59:31		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/17:59:31		Entered the remove_column method of the preprocessor class
+2021-12-01/17:59:31		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:15:09		Start of training!!
+2021-12-01/18:15:09		Entered the get data method of the Data_Getter class
+2021-12-01/18:15:14		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:15:14		Entered the remove_column method of the preprocessor class
+2021-12-01/18:15:14		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:15:14		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:15:14		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:15:14		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:16:05		Start of training!!
+2021-12-01/18:16:05		Entered the get data method of the Data_Getter class
+2021-12-01/18:16:09		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:16:09		Entered the remove_column method of the preprocessor class
+2021-12-01/18:16:09		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:16:11		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:16:11		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:16:11		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:17:59		Start of training!!
+2021-12-01/18:17:59		Entered the get data method of the Data_Getter class
+2021-12-01/18:18:03		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:18:03		Entered the remove_column method of the preprocessor class
+2021-12-01/18:18:03		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:18:03		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:18:03		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:18:03		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:18:04		Start of training!!
+2021-12-01/18:18:04		Entered the get data method of the Data_Getter class
+2021-12-01/18:18:08		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:18:08		Entered the remove_column method of the preprocessor class
+2021-12-01/18:18:08		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:18:08		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:18:08		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:18:08		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:21:46		Start of training!!
+2021-12-01/18:21:46		Entered the get data method of the Data_Getter class
+2021-12-01/18:21:51		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:21:51		Entered the remove_column method of the preprocessor class
+2021-12-01/18:21:51		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:21:51		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:21:51		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:21:51		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:21:52		Start of training!!
+2021-12-01/18:21:52		Entered the get data method of the Data_Getter class
+2021-12-01/18:21:56		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:21:56		Entered the remove_column method of the preprocessor class
+2021-12-01/18:21:56		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:21:56		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:21:56		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:21:56		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:24:06		Start of training!!
+2021-12-01/18:24:06		Entered the get data method of the Data_Getter class
+2021-12-01/18:24:10		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:24:10		Entered the remove_column method of the preprocessor class
+2021-12-01/18:24:10		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:24:10		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:24:10		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:24:10		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:24:10		Start of training!!
+2021-12-01/18:24:10		Entered the get data method of the Data_Getter class
+2021-12-01/18:24:15		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:24:15		Entered the remove_column method of the preprocessor class
+2021-12-01/18:24:15		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:24:15		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:24:15		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:24:15		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:25:26		Start of training!!
+2021-12-01/18:25:26		Entered the get data method of the Data_Getter class
+2021-12-01/18:25:30		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:25:30		Entered the remove_column method of the preprocessor class
+2021-12-01/18:25:30		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:25:30		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:25:30		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:25:30		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:25:30		Start of training!!
+2021-12-01/18:25:30		Entered the get data method of the Data_Getter class
+2021-12-01/18:25:35		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:25:35		Entered the remove_column method of the preprocessor class
+2021-12-01/18:25:35		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:25:35		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:25:35		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:25:35		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:26:14		Start of training!!
+2021-12-01/18:26:14		Entered the get data method of the Data_Getter class
+2021-12-01/18:26:19		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:26:19		Entered the remove_column method of the preprocessor class
+2021-12-01/18:26:19		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:26:19		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:26:19		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:26:19		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:26:19		Start of training!!
+2021-12-01/18:26:19		Entered the get data method of the Data_Getter class
+2021-12-01/18:26:24		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:26:24		Entered the remove_column method of the preprocessor class
+2021-12-01/18:26:24		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:26:24		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:26:24		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  drop() got an unexpected keyword argument 'label'
+2021-12-01/18:26:24		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2021-12-01/18:27:23		Start of training!!
+2021-12-01/18:27:23		Entered the get data method of the Data_Getter class
+2021-12-01/18:27:27		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:27:27		Entered the remove_column method of the preprocessor class
+2021-12-01/18:27:27		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:27:27		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:27:27		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-01/18:27:27		Start of training!!
+2021-12-01/18:27:27		Entered the get data method of the Data_Getter class
+2021-12-01/18:27:31		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:27:31		Entered the remove_column method of the preprocessor class
+2021-12-01/18:27:31		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:27:31		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:27:31		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-01/18:28:16		Start of training!!
+2021-12-01/18:28:16		Entered the get data method of the Data_Getter class
+2021-12-01/18:28:21		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:28:21		Entered the remove_column method of the preprocessor class
+2021-12-01/18:28:21		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:28:21		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:28:21		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-01/18:28:46		Start of training!!
+2021-12-01/18:28:46		Entered the get data method of the Data_Getter class
+2021-12-01/18:28:51		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:28:51		Entered the remove_column method of the preprocessor class
+2021-12-01/18:28:51		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:28:51		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:28:51		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-01/18:52:06		Start of training!!
+2021-12-01/18:52:06		Entered the get data method of the Data_Getter class
+2021-12-01/18:52:11		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:52:11		Entered the remove_column method of the preprocessor class
+2021-12-01/18:52:11		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:52:11		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:52:11		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-01/18:52:11		Entered the is_null_present method of the preprocessor class
+2021-12-01/18:52:11		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-01/18:52:11		Start of training!!
+2021-12-01/18:52:11		Entered the get data method of the Data_Getter class
+2021-12-01/18:52:17		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/18:52:17		Entered the remove_column method of the preprocessor class
+2021-12-01/18:52:17		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/18:52:17		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/18:52:17		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-01/18:52:17		Entered the is_null_present method of the preprocessor class
+2021-12-01/18:52:17		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-01/19:32:45		Start of training!!
+2021-12-01/19:32:45		Entered the get data method of the Data_Getter class
+2021-12-01/19:32:51		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/19:32:51		Entered the remove_column method of the preprocessor class
+2021-12-01/19:32:51		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/19:32:51		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/19:32:51		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-01/19:32:51		Entered the is_null_present method of the preprocessor class
+2021-12-01/19:32:51		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-01/19:36:23		Start of training!!
+2021-12-01/19:36:23		Entered the get data method of the Data_Getter class
+2021-12-01/19:36:28		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/19:36:28		Entered the remove_column method of the preprocessor class
+2021-12-01/19:36:28		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/19:36:28		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/19:36:28		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-01/19:36:28		Entered the is_null_present method of the preprocessor class
+2021-12-01/19:36:28		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-01/19:36:28		Start of training!!
+2021-12-01/19:36:28		Entered the get data method of the Data_Getter class
+2021-12-01/19:36:33		Data load successful. Exit the get data method of the Data_getter class
+2021-12-01/19:36:33		Entered the remove_column method of the preprocessor class
+2021-12-01/19:36:33		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-01/19:36:33		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-01/19:36:33		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-01/19:36:33		Entered the is_null_present method of the preprocessor class
+2021-12-01/19:36:33		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/07:46:52		Start of training!!
+2021-12-02/07:46:52		Entered the get data method of the Data_Getter class
+2021-12-02/07:46:54		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/07:46:54		Entered the remove_column method of the preprocessor class
+2021-12-02/07:46:54		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/07:46:54		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/07:46:54		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/07:46:54		Entered the is_null_present method of the preprocessor class
+2021-12-02/07:46:54		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/07:50:08		Start of training!!
+2021-12-02/07:50:08		Entered the get data method of the Data_Getter class
+2021-12-02/07:50:10		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/07:50:10		Entered the remove_column method of the preprocessor class
+2021-12-02/07:50:10		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/07:50:10		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/07:50:10		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/07:50:10		Entered the is_null_present method of the preprocessor class
+2021-12-02/07:50:10		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/07:50:10		Start of training!!
+2021-12-02/07:50:10		Entered the get data method of the Data_Getter class
+2021-12-02/07:50:11		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/07:50:11		Entered the remove_column method of the preprocessor class
+2021-12-02/07:50:11		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/07:50:11		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/07:50:11		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/07:50:11		Entered the is_null_present method of the preprocessor class
+2021-12-02/07:50:11		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/07:56:34		Start of training!!
+2021-12-02/07:56:34		Entered the get data method of the Data_Getter class
+2021-12-02/07:56:36		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/07:56:36		Entered the remove_column method of the preprocessor class
+2021-12-02/07:56:36		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/07:56:36		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/07:56:36		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/07:56:36		Entered the is_null_present method of the preprocessor class
+2021-12-02/07:56:36		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:32:44		Start of training!!
+2021-12-02/08:32:44		Entered the get data method of the Data_Getter class
+2021-12-02/08:32:45		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:32:45		Entered the remove_column method of the preprocessor class
+2021-12-02/08:32:45		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:32:45		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:32:45		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:32:45		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:32:45		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:32:45		Start of training!!
+2021-12-02/08:32:45		Entered the get data method of the Data_Getter class
+2021-12-02/08:32:47		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:32:47		Entered the remove_column method of the preprocessor class
+2021-12-02/08:32:47		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:32:47		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:32:47		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:32:47		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:32:47		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:35:34		Start of training!!
+2021-12-02/08:35:34		Entered the get data method of the Data_Getter class
+2021-12-02/08:35:35		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:35:35		Entered the remove_column method of the preprocessor class
+2021-12-02/08:35:35		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:35:35		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:35:35		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:35:35		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:35:35		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2021-12-02/08:35:35		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:35:35		Start of training!!
+2021-12-02/08:35:35		Entered the get data method of the Data_Getter class
+2021-12-02/08:35:36		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:35:36		Entered the remove_column method of the preprocessor class
+2021-12-02/08:35:36		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:35:36		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:35:36		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:35:36		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:35:36		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2021-12-02/08:35:36		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:36:43		Start of training!!
+2021-12-02/08:36:43		Entered the get data method of the Data_Getter class
+2021-12-02/08:36:44		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:36:44		Entered the remove_column method of the preprocessor class
+2021-12-02/08:36:44		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:36:44		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:36:44		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:36:44		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:36:44		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2021-12-02/08:36:44		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:38:18		Start of training!!
+2021-12-02/08:38:18		Entered the get data method of the Data_Getter class
+2021-12-02/08:38:19		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:38:19		Entered the remove_column method of the preprocessor class
+2021-12-02/08:38:19		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:38:19		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:38:19		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:38:19		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:38:19		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2021-12-02/08:38:19		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:38:19		Start of training!!
+2021-12-02/08:38:19		Entered the get data method of the Data_Getter class
+2021-12-02/08:38:20		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:38:20		Entered the remove_column method of the preprocessor class
+2021-12-02/08:38:20		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:38:20		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:38:20		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:38:20		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:38:20		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2021-12-02/08:38:20		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:42:31		Start of training!!
+2021-12-02/08:42:31		Entered the get data method of the Data_Getter class
+2021-12-02/08:42:32		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:42:32		Entered the remove_column method of the preprocessor class
+2021-12-02/08:42:32		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:42:32		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:42:32		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:42:32		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:42:32		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:42:32		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/08:43:29		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/08:43:29		Start of training!!
+2021-12-02/08:43:29		Entered the get data method of the Data_Getter class
+2021-12-02/08:43:30		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:43:30		Entered the remove_column method of the preprocessor class
+2021-12-02/08:43:30		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:43:30		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:43:30		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:43:30		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:43:30		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:43:30		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/08:44:24		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/08:49:57		Start of training!!
+2021-12-02/08:49:57		Entered the get data method of the Data_Getter class
+2021-12-02/08:49:57		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:49:57		Entered the remove_column method of the preprocessor class
+2021-12-02/08:49:57		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:49:57		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:49:57		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:49:57		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:49:58		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:49:58		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/08:50:48		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/08:50:48		Start of training!!
+2021-12-02/08:50:48		Entered the get data method of the Data_Getter class
+2021-12-02/08:50:49		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:50:49		Entered the remove_column method of the preprocessor class
+2021-12-02/08:50:49		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:50:49		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:50:49		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:50:49		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:50:49		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:50:49		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/08:51:41		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/08:51:41		Start of training!!
+2021-12-02/08:51:41		Entered the get data method of the Data_Getter class
+2021-12-02/08:51:42		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:51:42		Entered the remove_column method of the preprocessor class
+2021-12-02/08:51:42		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:51:42		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:51:42		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:51:42		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:51:42		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:51:42		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/08:52:32		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/08:54:16		Start of training!!
+2021-12-02/08:54:16		Entered the get data method of the Data_Getter class
+2021-12-02/08:54:18		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/08:54:18		Entered the remove_column method of the preprocessor class
+2021-12-02/08:54:18		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/08:54:18		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/08:54:18		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/08:54:18		Entered the is_null_present method of the preprocessor class
+2021-12-02/08:54:18		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/08:54:18		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/08:55:22		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/11:53:06		Start of training!!
+2021-12-02/11:53:06		Entered the get data method of the Data_Getter class
+2021-12-02/11:53:07		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/11:53:07		Entered the remove_column method of the preprocessor class
+2021-12-02/11:53:07		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/11:53:07		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/11:53:07		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/11:53:07		Entered the is_null_present method of the preprocessor class
+2021-12-02/11:53:07		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/11:53:07		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/11:54:22		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/11:57:23		Start of training!!
+2021-12-02/11:57:23		Entered the get data method of the Data_Getter class
+2021-12-02/11:57:25		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/11:57:25		Entered the remove_column method of the preprocessor class
+2021-12-02/11:57:25		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/11:57:25		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/11:57:25		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/11:57:25		Entered the is_null_present method of the preprocessor class
+2021-12-02/11:57:25		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/11:57:25		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/11:58:40		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/12:03:21		Start of training!!
+2021-12-02/12:03:21		Entered the get data method of the Data_Getter class
+2021-12-02/12:03:22		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/12:03:22		Entered the remove_column method of the preprocessor class
+2021-12-02/12:03:22		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/12:03:22		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/12:03:22		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/12:03:22		Entered the is_null_present method of the preprocessor class
+2021-12-02/12:03:22		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/12:03:22		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/12:04:38		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/12:04:38		Entered the Elbow plot method. Of the clustering class
+2021-12-02/12:05:20		Exception occured in elbow_plot method of the KMeansClustering class. Exception message: [Errno 2] No such file or directory: 'preprocesssing_data/k-means_Elbow.PNG'
+2021-12-02/12:05:20		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/12:08:06		Start of training!!
+2021-12-02/12:08:06		Entered the get data method of the Data_Getter class
+2021-12-02/12:08:07		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/12:08:07		Entered the remove_column method of the preprocessor class
+2021-12-02/12:08:07		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/12:08:07		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/12:08:07		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/12:08:07		Entered the is_null_present method of the preprocessor class
+2021-12-02/12:08:07		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/12:08:07		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/12:09:20		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/12:09:20		Entered the Elbow plot method. Of the clustering class
+2021-12-02/12:09:59		Exception occured in elbow_plot method of the KMeansClustering class. Exception message: [Errno 2] No such file or directory: 'preprocesssing_data/k-means_Elbow.PNG'
+2021-12-02/12:09:59		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/12:10:48		Start of training!!
+2021-12-02/12:10:48		Entered the get data method of the Data_Getter class
+2021-12-02/12:10:49		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/12:10:49		Entered the remove_column method of the preprocessor class
+2021-12-02/12:10:49		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/12:10:49		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/12:10:49		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/12:10:49		Entered the is_null_present method of the preprocessor class
+2021-12-02/12:10:50		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/12:10:50		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/12:12:02		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/12:12:02		Entered the Elbow plot method. Of the clustering class
+2021-12-02/12:12:41		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/13:06:33		Start of training!!
+2021-12-02/13:06:33		Entered the get data method of the Data_Getter class
+2021-12-02/13:06:35		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/13:06:35		Entered the remove_column method of the preprocessor class
+2021-12-02/13:06:35		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/13:06:35		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/13:06:35		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/13:06:35		Entered the is_null_present method of the preprocessor class
+2021-12-02/13:06:35		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/13:06:35		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/13:07:49		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/13:07:49		Entered the Elbow plot method. Of the clustering class
+2021-12-02/13:08:29		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/13:08:29		Enter the create cluster method of the KMeansClustering Class
+2021-12-02/13:08:33		Entered the save_model method of the file_operation class
+2021-12-02/13:08:33		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-02/13:21:45		Start of training!!
+2021-12-02/13:21:45		Entered the get data method of the Data_Getter class
+2021-12-02/13:21:47		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/13:21:47		Entered the remove_column method of the preprocessor class
+2021-12-02/13:21:47		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/13:21:47		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/13:21:47		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/13:21:47		Entered the is_null_present method of the preprocessor class
+2021-12-02/13:21:47		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/13:21:47		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/13:23:00		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/13:23:00		Entered the Elbow plot method. Of the clustering class
+2021-12-02/13:23:39		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/13:23:39		Enter the create cluster method of the KMeansClustering Class
+2021-12-02/13:23:42		Entered the save_model method of the file_operation class
+2021-12-02/13:23:42		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-02/13:23:42		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-02/13:26:10		Start of training!!
+2021-12-02/13:26:10		Entered the get data method of the Data_Getter class
+2021-12-02/13:26:11		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/13:26:11		Entered the remove_column method of the preprocessor class
+2021-12-02/13:26:11		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/13:26:11		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/13:26:11		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/13:26:11		Entered the is_null_present method of the preprocessor class
+2021-12-02/13:26:11		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/13:26:11		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/13:27:25		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/13:27:25		Entered the Elbow plot method. Of the clustering class
+2021-12-02/13:28:03		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/13:28:03		Enter the create cluster method of the KMeansClustering Class
+2021-12-02/13:28:07		Entered the save_model method of the file_operation class
+2021-12-02/13:28:07		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-02/13:28:07		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-02/13:38:46		Start of training!!
+2021-12-02/13:38:46		Entered the get data method of the Data_Getter class
+2021-12-02/13:38:47		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/13:38:47		Entered the remove_column method of the preprocessor class
+2021-12-02/13:38:47		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/13:38:47		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/13:38:47		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/13:38:47		Entered the is_null_present method of the preprocessor class
+2021-12-02/13:38:47		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/13:38:47		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/13:39:59		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/13:39:59		Entered the Elbow plot method. Of the clustering class
+2021-12-02/13:40:39		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/13:40:39		Enter the create cluster method of the KMeansClustering Class
+2021-12-02/13:40:43		Entered the save_model method of the file_operation class
+2021-12-02/13:40:43		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-02/13:40:43		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-02/13:49:53		Start of training!!
+2021-12-02/13:49:53		Entered the get data method of the Data_Getter class
+2021-12-02/13:49:55		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/13:49:55		Entered the remove_column method of the preprocessor class
+2021-12-02/13:49:55		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/13:49:55		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/13:49:55		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/13:49:55		Entered the is_null_present method of the preprocessor class
+2021-12-02/13:49:55		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/13:49:55		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/14:15:34		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/14:15:34		Entered the Elbow plot method. Of the clustering class
+2021-12-02/14:16:01		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/14:16:01		Enter the create cluster method of the KMeansClustering Class
+2021-12-02/14:16:03		Entered the save_model method of the file_operation class
+2021-12-02/14:16:03		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-02/14:16:03		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-02/15:19:45		Start of training!!
+2021-12-02/15:19:45		Entered the get data method of the Data_Getter class
+2021-12-02/15:19:46		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/15:19:46		Entered the remove_column method of the preprocessor class
+2021-12-02/15:19:46		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/15:19:46		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/15:19:46		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/15:19:46		Entered the is_null_present method of the preprocessor class
+2021-12-02/15:19:46		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/15:19:46		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/15:20:39		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/15:20:39		Entered the Elbow plot method. Of the clustering class
+2021-12-02/15:21:09		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/15:21:09		Enter the create cluster method of the KMeansClustering Class
+2021-12-02/15:21:12		Entered the save_model method of the file_operation class
+2021-12-02/15:21:12		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-02/15:21:12		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-02/15:21:12		Start of training!!
+2021-12-02/15:21:12		Entered the get data method of the Data_Getter class
+2021-12-02/15:21:13		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/15:21:13		Entered the remove_column method of the preprocessor class
+2021-12-02/15:21:13		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/15:21:13		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/15:21:13		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/15:21:13		Entered the is_null_present method of the preprocessor class
+2021-12-02/15:21:13		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/15:21:13		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/15:22:07		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/15:22:07		Entered the Elbow plot method. Of the clustering class
+2021-12-02/15:22:37		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/15:22:37		Enter the create cluster method of the KMeansClustering Class
+2021-12-02/15:22:40		Entered the save_model method of the file_operation class
+2021-12-02/15:22:40		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-02/15:22:40		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-02/15:23:03		Start of training!!
+2021-12-02/15:23:03		Entered the get data method of the Data_Getter class
+2021-12-02/15:23:04		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/15:23:04		Entered the remove_column method of the preprocessor class
+2021-12-02/15:23:04		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/15:23:04		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/15:23:04		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/15:23:04		Entered the is_null_present method of the preprocessor class
+2021-12-02/15:23:04		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/15:23:04		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/15:24:01		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/15:24:01		Entered the Elbow plot method. Of the clustering class
+2021-12-02/15:24:33		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/15:24:33		Enter the create cluster method of the KMeansClustering Class
+2021-12-02/15:24:36		Entered the save_model method of the file_operation class
+2021-12-02/15:24:36		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-02/15:24:36		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-02/19:26:23		Start of training!!
+2021-12-02/19:26:23		Entered the get data method of the Data_Getter class
+2021-12-02/19:26:24		Data load successful. Exit the get data method of the Data_getter class
+2021-12-02/19:26:24		Entered the remove_column method of the preprocessor class
+2021-12-02/19:26:24		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-02/19:26:24		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-02/19:26:24		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-02/19:26:24		Entered the is_null_present method of the preprocessor class
+2021-12-02/19:26:24		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-02/19:26:24		Entered the impute_missing_values method of the Preprocessor class
+2021-12-02/19:27:38		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-02/19:27:38		Entered the Elbow plot method. Of the clustering class
+2021-12-02/19:28:16		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-02/19:28:16		Enter the create cluster method of the KMeansClustering Class
+2021-12-02/19:28:19		Entered the save_model method of the file_operation class
+2021-12-02/19:28:19		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-02/19:28:19		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-03/07:18:00		Start of training!!
+2021-12-03/07:18:00		Entered the get data method of the Data_Getter class
+2021-12-03/07:18:01		Data load successful. Exit the get data method of the Data_getter class
+2021-12-03/07:18:01		Entered the remove_column method of the preprocessor class
+2021-12-03/07:18:01		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-03/07:18:01		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-03/07:18:01		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-03/07:18:01		Entered the is_null_present method of the preprocessor class
+2021-12-03/07:18:01		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-03/07:18:01		Entered the impute_missing_values method of the Preprocessor class
+2021-12-03/07:19:37		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-03/07:19:37		Entered the Elbow plot method. Of the clustering class
+2021-12-03/07:20:34		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-03/07:20:34		Enter the create cluster method of the KMeansClustering Class
+2021-12-03/07:20:39		Entered the save_model method of the file_operation class
+2021-12-03/07:20:39		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-03/07:20:39		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-03/07:20:39		Entered the get_best_model method of the Model_Finder class
+2021-12-03/07:20:39		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/08:42:50		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/08:42:50		AUC for XGBoost:1.0
+2021-12-03/08:42:50		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/08:44:07		Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/08:44:07		AUC for RF:0.5119047619047619
+2021-12-03/08:44:07		Entered the get_best_model method of the Model_Finder class
+2021-12-03/08:44:07		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/08:50:26		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/08:50:26		AUC for XGBoost:1.0
+2021-12-03/08:50:26		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/08:50:58		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 130}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/08:50:58		AUC for RF:1.0
+2021-12-03/08:50:58		Entered the get_best_model method of the Model_Finder class
+2021-12-03/08:50:58		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/09:07:19		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/09:07:20		AUC for XGBoost:1.0
+2021-12-03/09:07:20		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/09:08:33		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 130}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/09:08:33		AUC for RF:0.7
+2021-12-03/09:08:33		Start of training!!
+2021-12-03/09:08:33		Entered the get data method of the Data_Getter class
+2021-12-03/09:08:35		Data load successful. Exit the get data method of the Data_getter class
+2021-12-03/09:08:35		Entered the remove_column method of the preprocessor class
+2021-12-03/09:08:35		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-03/09:08:35		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-03/09:08:35		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-03/09:08:35		Entered the is_null_present method of the preprocessor class
+2021-12-03/09:08:35		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-03/09:08:35		Entered the impute_missing_values method of the Preprocessor class
+2021-12-03/09:09:53		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-03/09:09:53		Entered the Elbow plot method. Of the clustering class
+2021-12-03/09:10:37		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-03/09:10:37		Enter the create cluster method of the KMeansClustering Class
+2021-12-03/09:10:41		Entered the save_model method of the file_operation class
+2021-12-03/09:10:41		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-03/09:10:41		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-03/09:10:41		Entered the get_best_model method of the Model_Finder class
+2021-12-03/09:10:41		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/10:03:22		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/10:03:22		AUC for XGBoost:1.0
+2021-12-03/10:03:22		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/10:04:34		Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/10:04:34		AUC for RF:0.5119047619047619
+2021-12-03/10:04:34		Entered the get_best_model method of the Model_Finder class
+2021-12-03/10:04:34		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/10:10:44		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/10:10:44		AUC for XGBoost:1.0
+2021-12-03/10:10:44		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/10:11:18		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 130}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/10:11:18		AUC for RF:1.0
+2021-12-03/10:11:18		Entered the get_best_model method of the Model_Finder class
+2021-12-03/10:11:18		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/12:20:31		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/12:20:31		AUC for XGBoost:1.0
+2021-12-03/12:20:31		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/12:21:10		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/12:21:10		AUC for RF:0.8666666666666667
+2021-12-03/14:22:45		Start of training!!
+2021-12-03/14:22:45		Entered the get data method of the Data_Getter class
+2021-12-03/14:22:47		Data load successful. Exit the get data method of the Data_getter class
+2021-12-03/14:22:47		Entered the remove_column method of the preprocessor class
+2021-12-03/14:22:47		Column removal successful. Exited the remove_columns method of the processor class
+2021-12-03/14:22:47		Entered the seperate_label_feature  method of the preprocessor class
+2021-12-03/14:22:47		Label seperation Successful. Exited the seperate_label feature method od preprocessor class
+2021-12-03/14:22:47		Entered the is_null_present method of the preprocessor class
+2021-12-03/14:22:47		Finding missing values is a success. data written to the null values file.Exited the is_null_present method of the Preprocessor class
+2021-12-03/14:22:47		Entered the impute_missing_values method of the Preprocessor class
+2021-12-03/14:24:01		Imputing missing values successful Exited the impute_missing_values method of the Preprocessor class
+2021-12-03/14:24:01		Entered the Elbow plot method. Of the clustering class
+2021-12-03/14:24:39		The optimum number of cluster is :3 Exited the elbow_plot method of the KMeansClustering class
+2021-12-03/14:24:39		Enter the create cluster method of the KMeansClustering Class
+2021-12-03/14:24:43		Entered the save_model method of the file_operation class
+2021-12-03/14:24:43		Model file KMenassaved. Exited the save_model method of the model_finder class.
+2021-12-03/14:24:43		Successfully created3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-03/14:24:43		Entered the get_best_model method of the Model_Finder class
+2021-12-03/14:24:43		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/15:22:16		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/15:22:16		AUC for XGBoost:1.0
+2021-12-03/15:22:16		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/15:23:24		Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/15:23:24		AUC for RF:0.5357142857142857
+2021-12-03/15:23:24		Entered the save_model method of the file_operation class
+2021-12-03/15:23:24		Model file XGBoost0saved. Exited the save_model method of the model_finder class.
+2021-12-03/15:23:24		Entered the get_best_model method of the Model_Finder class
+2021-12-03/15:23:24		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/15:29:24		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/15:29:24		AUC for XGBoost:1.0
+2021-12-03/15:29:24		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/15:29:53		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/15:29:53		AUC for RF:1.0
+2021-12-03/15:29:53		Entered the save_model method of the file_operation class
+2021-12-03/15:29:53		Model file RandomForest2saved. Exited the save_model method of the model_finder class.
+2021-12-03/15:29:53		Entered the get_best_model method of the Model_Finder class
+2021-12-03/15:29:53		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/15:43:24		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-12-03/15:43:24		AUC for XGBoost:1.0
+2021-12-03/15:43:24		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/15:44:03		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-12-03/15:44:03		AUC for RF:0.9
+2021-12-03/15:44:03		Entered the save_model method of the file_operation class
+2021-12-03/15:44:03		Model file XGBoost1saved. Exited the save_model method of the model_finder class.
+2021-12-03/15:44:03		Successful End of Training

@@ -1,0 +1,351 @@
+2021-11-29/17:31:15		Start of validation on files!!
+2021-11-29/18:33:05		Start of validation on files!!
+2021-11-29/18:34:31		Start of validation on files!!
+2021-11-29/18:34:31		Start of validation on files!!
+2021-11-29/18:52:51		Start of validation on files!!
+2021-11-30/06:46:15		Start of validation on files!!
+2021-11-30/06:46:46		Start of validation on files!!
+2021-11-30/06:49:30		Start of validation on files!!
+2021-11-30/06:54:00		Start of validation on files!!
+2021-11-30/06:56:25		Start of validation on files!!
+2021-11-30/06:56:25		Start of validation on files!!
+2021-11-30/06:58:09		Start of validation on files!!
+2021-11-30/07:07:00		Start of validation on files!!
+2021-11-30/07:10:47		Start of validation on files!!
+2021-11-30/07:10:47		Start of validation on files!!
+2021-11-30/07:24:10		Start of validation on files!!
+2021-11-30/07:24:10		Start of validation on files!!
+2021-11-30/07:29:26		Start of validation on files!!
+2021-11-30/09:03:14		Start of validation on files!!
+2021-11-30/09:03:14		Start of validation on files!!
+2021-11-30/09:03:46		Start of validation on files!!
+2021-11-30/09:06:04		Start of validation on files!!
+2021-11-30/09:11:23		Start of validation on files!!
+2021-11-30/09:11:28		Start of validation on files!!
+2021-11-30/09:18:37		Start of validation on files!!
+2021-11-30/09:22:35		Start of validation on files!!
+2021-11-30/09:25:19		Start of validation on files!!
+2021-11-30/09:36:04		Start of validation on files!!
+2021-11-30/11:27:57		Start of validation on files!!
+2021-11-30/11:30:29		Start of validation on files!!
+2021-11-30/11:34:38		Start of validation on files!!
+2021-11-30/11:34:46		Start of validation on files!!
+2021-11-30/11:37:45		Start of validation on files!!
+2021-11-30/11:41:19		Start of validation on files!!
+2021-11-30/13:53:36		Start of validation on files!!
+2021-11-30/13:59:59		Start of validation on files!!
+2021-11-30/14:04:35		Start of validation on files!!
+2021-11-30/14:08:25		Start of validation on files!!
+2021-11-30/14:08:46		Start of validation on files!!
+2021-11-30/14:12:29		Start of validation on files!!
+2021-11-30/14:12:48		Start of validation on files!!
+2021-11-30/14:15:10		Start of validation on files!!
+2021-11-30/14:19:45		Start of validation on files!!
+2021-11-30/14:21:49		Start of validation on files!!
+2021-11-30/14:21:50		Start of validation on files!!
+2021-11-30/14:24:14		Start of validation on files!!
+2021-11-30/14:24:16		Start of validation on files!!
+2021-11-30/14:24:18		Start of validation on files!!
+2021-11-30/14:24:58		Start of validation on files!!
+2021-11-30/14:27:40		Start of validation on files!!
+2021-11-30/14:31:40		Start of validation on files!!
+2021-11-30/14:39:05		Start of validation on files!!
+2021-11-30/14:39:05		Start of validation on files!!
+2021-11-30/14:45:32		Start of validation on files!!
+2021-11-30/14:51:08		Start of validation on files!!
+2021-11-30/15:02:17		Start of validation on files!!
+2021-11-30/15:02:55		Start of validation on files!!
+2021-11-30/15:05:20		Start of validation on files!!
+2021-11-30/15:05:23		Start of validation on files!!
+2021-11-30/15:06:44		Start of validation on files!!
+2021-11-30/15:07:19		Start of validation on files!!
+2021-11-30/15:08:57		Start of validation on files!!
+2021-11-30/15:08:57		Start of validation on files!!
+2021-11-30/15:11:22		Start of validation on files!!
+2021-11-30/15:12:18		Start of validation on files!!
+2021-11-30/15:13:15		Start of validation on files!!
+2021-11-30/15:15:39		Start of validation on files!!
+2021-11-30/16:13:32		Start of validation on files!!
+2021-11-30/16:14:20		Start of validation on files!!
+2021-11-30/16:14:33		Start of validation on files!!
+2021-11-30/16:14:52		Start of validation on files!!
+2021-11-30/16:15:09		Start of validation on files!!
+2021-11-30/16:16:04		Start of validation on files!!
+2021-11-30/16:16:27		Start of validation on files!!
+2021-11-30/16:17:12		Start of validation on files!!
+2021-11-30/16:20:17		Start of validation on files!!
+2021-11-30/16:25:07		Start of validation on files!!
+2021-11-30/16:25:33		Start of validation on files!!
+2021-11-30/16:26:08		Start of validation on files!!
+2021-11-30/16:26:45		Start of validation on files!!
+2021-11-30/16:27:21		Start of validation on files!!
+2021-11-30/16:33:43		Start of validation on files!!
+2021-11-30/16:33:45		Start of validation on files!!
+2021-11-30/16:34:23		Start of validation on files!!
+2021-11-30/16:34:53		Start of validation on files!!
+2021-11-30/16:35:24		Start of validation on files!!
+2021-11-30/16:36:24		Start of validation on files!!
+2021-11-30/16:36:24		Start of validation on files!!
+2021-11-30/16:36:47		Start of validation on files!!
+2021-11-30/16:38:01		Start of validation on files!!
+2021-11-30/16:38:39		Start of validation on files!!
+2021-11-30/16:38:39		Start of validation on files!!
+2021-11-30/16:39:17		Start of validation on files!!
+2021-11-30/16:39:38		Start of validation on files!!
+2021-11-30/16:40:15		Start of validation on files!!
+2021-11-30/16:41:17		Start of validation on files!!
+2021-11-30/16:41:18		Start of validation on files!!
+2021-11-30/16:41:53		Start of validation on files!!
+2021-11-30/16:41:54		Start of validation on files!!
+2021-11-30/16:42:17		Start of validation on files!!
+2021-11-30/16:44:26		Start of validation on files!!
+2021-11-30/16:44:28		Start of validation on files!!
+2021-11-30/16:46:40		Start of validation on files!!
+2021-11-30/16:46:48		Start of validation on files!!
+2021-11-30/16:59:52		Start of validation on files!!
+2021-11-30/16:59:58		Raw Data Validation Completed!!
+2021-11-30/16:59:58		Starting Data Transformation!!
+2021-11-30/17:47:44		Start of validation on files!!
+2021-11-30/17:47:52		Raw Data Validation Complete!!
+2021-11-30/17:47:52		Starting Data Transformation!!
+2021-11-30/17:48:00		DataTransform Complete!!
+2021-11-30/17:48:00		Bad files moved to archive!! Bad folder deleted!!
+2021-11-30/17:48:00		validation operation completed!!
+2021-11-30/18:02:18		Start of validation on files!!
+2021-11-30/18:02:26		Raw Data Validation Complete!!
+2021-11-30/18:02:26		Starting Data Transformation!!
+2021-11-30/18:02:34		DataTransform Complete!!
+2021-11-30/18:02:34		Bad files moved to archive!! Bad folder deleted!!
+2021-11-30/18:02:34		validation operation completed!!
+2021-11-30/18:02:34		Start of validation on files!!
+2021-11-30/18:02:39		Raw Data Validation Complete!!
+2021-11-30/18:02:39		Starting Data Transformation!!
+2021-11-30/18:02:47		DataTransform Complete!!
+2021-11-30/18:02:47		Bad files moved to archive!! Bad folder deleted!!
+2021-11-30/18:02:47		validation operation completed!!
+2021-11-30/18:06:33		Start of validation on files!!
+2021-11-30/18:13:00		Raw Data Validation Complete!!
+2021-11-30/18:13:02		Starting Data Transformation!!
+2021-11-30/18:13:48		DataTransform Complete!!
+2021-11-30/18:14:04		Bad files moved to archive!! Bad folder deleted!!
+2021-11-30/18:14:04		validation operation completed!!
+2021-11-30/18:15:56		Start of validation on files!!
+2021-11-30/18:16:02		Raw Data Validation Complete!!
+2021-11-30/18:16:02		Starting Data Transformation!!
+2021-11-30/18:16:11		DataTransform Complete!!
+2021-11-30/18:16:11		Bad files moved to archive!! Bad folder deleted!!
+2021-11-30/18:16:11		validation operation completed!!
+2021-12-01/07:08:25		Start of validation on files!!
+2021-12-01/07:08:34		Raw Data Validation Complete!!
+2021-12-01/07:08:34		Starting Data Transformation!!
+2021-12-01/07:08:42		DataTransform Complete!!
+2021-12-01/07:10:16		Start of validation on files!!
+2021-12-01/07:10:23		Raw Data Validation Complete!!
+2021-12-01/07:10:23		Starting Data Transformation!!
+2021-12-01/07:10:31		DataTransform Complete!!
+2021-12-01/07:12:27		Start of validation on files!!
+2021-12-01/07:12:33		Raw Data Validation Complete!!
+2021-12-01/07:12:33		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/07:12:33		validation operation completed!!
+2021-12-01/07:13:31		Start of validation on files!!
+2021-12-01/07:13:31		Raw Data Validation Complete!!
+2021-12-01/07:13:31		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/07:13:31		validation operation completed!!
+2021-12-01/07:13:55		Start of validation on files!!
+2021-12-01/07:14:06		Raw Data Validation Complete!!
+2021-12-01/07:14:06		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/07:14:06		validation operation completed!!
+2021-12-01/07:14:50		Start of validation on files!!
+2021-12-01/07:15:01		Raw Data Validation Complete!!
+2021-12-01/07:15:01		Starting Data Transformation!!
+2021-12-01/07:15:10		DataTransform Complete!!
+2021-12-01/07:15:10		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/07:15:10		validation operation completed!!
+2021-12-01/07:15:49		Start of validation on files!!
+2021-12-01/07:15:57		Raw Data Validation Complete!!
+2021-12-01/07:15:57		Starting Data Transformation!!
+2021-12-01/07:16:06		DataTransform Complete!!
+2021-12-01/07:20:14		Start of validation on files!!
+2021-12-01/07:20:23		Raw Data Validation Complete!!
+2021-12-01/07:20:23		Starting Data Transformation!!
+2021-12-01/07:20:36		DataTransform Complete!!
+2021-12-01/07:22:28		Start of validation on files!!
+2021-12-01/07:22:37		Raw Data Validation Complete!!
+2021-12-01/07:22:37		Starting Data Transformation!!
+2021-12-01/07:22:47		DataTransform Complete!!
+2021-12-01/07:23:56		Start of validation on files!!
+2021-12-01/07:24:03		Raw Data Validation Complete!!
+2021-12-01/07:24:03		Starting Data Transformation!!
+2021-12-01/07:24:10		DataTransform Complete!!
+2021-12-01/07:24:10		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/07:24:10		validation operation completed!!
+2021-12-01/07:24:50		Start of validation on files!!
+2021-12-01/07:24:58		Raw Data Validation Complete!!
+2021-12-01/07:24:58		Starting Data Transformation!!
+2021-12-01/07:25:06		DataTransform Complete!!
+2021-12-01/07:25:06		Creating Training Database and table on the basis of given schema!!
+2021-12-01/07:39:14		Start of validation on files!!
+2021-12-01/07:39:23		Raw Data Validation Complete!!
+2021-12-01/07:39:23		Starting Data Transformation!!
+2021-12-01/07:39:32		DataTransform Complete!!
+2021-12-01/07:39:32		Creating Training Database and table on the basis of given schema!!
+2021-12-01/08:47:18		Start of validation on files!!
+2021-12-01/08:47:23		Raw Data Validation Complete!!
+2021-12-01/08:47:23		Starting Data Transformation!!
+2021-12-01/08:47:29		DataTransform Complete!!
+2021-12-01/08:47:29		Creating Training Database and table on the basis of given schema!!
+2021-12-01/08:49:01		Start of validation on files!!
+2021-12-01/08:49:08		Raw Data Validation Complete!!
+2021-12-01/08:49:08		Starting Data Transformation!!
+2021-12-01/08:49:17		DataTransform Complete!!
+2021-12-01/08:49:17		Creating Training Database and table on the basis of given schema!!
+2021-12-01/08:49:17		Start of validation on files!!
+2021-12-01/08:49:23		Raw Data Validation Complete!!
+2021-12-01/08:49:23		Starting Data Transformation!!
+2021-12-01/08:49:33		DataTransform Complete!!
+2021-12-01/08:49:33		Creating Training Database and table on the basis of given schema!!
+2021-12-01/08:54:37		Start of validation on files!!
+2021-12-01/08:54:45		Raw Data Validation Complete!!
+2021-12-01/08:54:45		Starting Data Transformation!!
+2021-12-01/08:54:52		DataTransform Complete!!
+2021-12-01/08:54:52		Creating Training Database and table on the basis of given schema!!
+2021-12-01/08:54:52		Start of validation on files!!
+2021-12-01/08:54:57		Raw Data Validation Complete!!
+2021-12-01/08:54:57		Starting Data Transformation!!
+2021-12-01/08:55:05		DataTransform Complete!!
+2021-12-01/08:55:05		Creating Training Database and table on the basis of given schema!!
+2021-12-01/08:55:05		Start of validation on files!!
+2021-12-01/08:55:12		Raw Data Validation Complete!!
+2021-12-01/08:55:12		Starting Data Transformation!!
+2021-12-01/08:55:21		DataTransform Complete!!
+2021-12-01/08:55:21		Creating Training Database and table on the basis of given schema!!
+2021-12-01/09:45:37		Start of validation on files!!
+2021-12-01/09:45:46		Raw Data Validation Complete!!
+2021-12-01/09:45:46		Starting Data Transformation!!
+2021-12-01/09:45:55		DataTransform Complete!!
+2021-12-01/09:45:55		Creating Training Database and table on the basis of given schema!!
+2021-12-01/09:47:36		Table creation completed!!
+2021-12-01/09:47:36		Insertion of data into table started!!!!
+2021-12-01/09:47:37		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/09:47:37		validation operation completed!!
+2021-12-01/09:56:12		Start of validation on files!!
+2021-12-01/09:56:20		Raw Data Validation Complete!!
+2021-12-01/09:56:20		Starting Data Transformation!!
+2021-12-01/09:56:28		DataTransform Complete!!
+2021-12-01/09:56:28		Creating Training Database and table on the basis of given schema!!
+2021-12-01/09:56:28		Table creation completed!!
+2021-12-01/09:56:28		Insertion of data into table started!!!!
+2021-12-01/09:56:28		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/09:56:28		validation operation completed!!
+2021-12-01/09:56:28		Start of validation on files!!
+2021-12-01/09:56:32		Raw Data Validation Complete!!
+2021-12-01/09:56:32		Starting Data Transformation!!
+2021-12-01/09:56:38		DataTransform Complete!!
+2021-12-01/09:56:38		Creating Training Database and table on the basis of given schema!!
+2021-12-01/09:56:38		Table creation completed!!
+2021-12-01/09:56:38		Insertion of data into table started!!!!
+2021-12-01/09:56:38		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/09:56:38		validation operation completed!!
+2021-12-01/09:58:13		Start of validation on files!!
+2021-12-01/09:58:18		Raw Data Validation Complete!!
+2021-12-01/09:58:18		Starting Data Transformation!!
+2021-12-01/09:58:24		DataTransform Complete!!
+2021-12-01/09:58:24		Creating Training Database and table on the basis of given schema!!
+2021-12-01/09:58:24		Table creation completed!!
+2021-12-01/09:58:24		Insertion of data into table started!!!!
+2021-12-01/09:58:25		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/09:58:25		validation operation completed!!
+2021-12-01/09:58:36		Start of validation on files!!
+2021-12-01/09:58:41		Raw Data Validation Complete!!
+2021-12-01/09:58:41		Starting Data Transformation!!
+2021-12-01/09:58:50		DataTransform Complete!!
+2021-12-01/09:58:50		Creating Training Database and table on the basis of given schema!!
+2021-12-01/09:58:50		Table creation completed!!
+2021-12-01/09:58:50		Insertion of data into table started!!!!
+2021-12-01/09:58:50		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/09:58:50		validation operation completed!!
+2021-12-01/09:59:12		Start of validation on files!!
+2021-12-01/09:59:19		Raw Data Validation Complete!!
+2021-12-01/09:59:19		Starting Data Transformation!!
+2021-12-01/09:59:25		DataTransform Complete!!
+2021-12-01/09:59:25		Creating Training Database and table on the basis of given schema!!
+2021-12-01/09:59:25		Table creation completed!!
+2021-12-01/09:59:25		Insertion of data into table started!!!!
+2021-12-01/09:59:25		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/09:59:25		validation operation completed!!
+2021-12-01/11:51:38		Start of validation on files!!
+2021-12-01/11:51:45		Raw Data Validation Complete!!
+2021-12-01/11:51:45		Starting Data Transformation!!
+2021-12-01/11:51:53		DataTransform Complete!!
+2021-12-01/11:51:53		Creating Training Database and table on the basis of given schema!!
+2021-12-01/11:51:53		Table creation completed!!
+2021-12-01/11:51:53		Insertion of data into table started!!!!
+2021-12-01/11:54:33		Insert in table completed!!
+2021-12-01/11:54:33		Deleting Good Data Folser!!
+2021-12-01/11:54:33		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/11:54:33		validation operation completed!!
+2021-12-01/11:59:36		Start of validation on files!!
+2021-12-01/11:59:44		Raw Data Validation Complete!!
+2021-12-01/11:59:44		Starting Data Transformation!!
+2021-12-01/11:59:52		DataTransform Complete!!
+2021-12-01/11:59:52		Creating Training Database and table on the basis of given schema!!
+2021-12-01/11:59:52		Table creation completed!!
+2021-12-01/11:59:52		Insertion of data into table started!!!!
+2021-12-01/12:02:34		Insert in table completed!!
+2021-12-01/12:02:34		Deleting Good Data Folser!!
+2021-12-01/12:02:34		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/12:02:34		validation operation completed!!
+2021-12-01/13:18:08		Start of validation on files!!
+2021-12-01/13:18:15		Raw Data Validation Complete!!
+2021-12-01/13:18:15		Starting Data Transformation!!
+2021-12-01/13:18:25		DataTransform Complete!!
+2021-12-01/13:18:25		Creating Training Database and table on the basis of given schema!!
+2021-12-01/13:18:25		Table creation completed!!
+2021-12-01/13:18:25		Insertion of data into table started!!!!
+2021-12-01/13:21:18		Insert in table completed!!
+2021-12-01/13:21:18		Deleting Good Data Folser!!
+2021-12-01/13:21:18		Good data Folder Deleted!!!
+2021-12-01/13:21:18		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/13:21:18		validation operation completed!!
+2021-12-01/13:55:41		Start of validation on files!!
+2021-12-01/13:55:49		Raw Data Validation Complete!!
+2021-12-01/13:55:49		Starting Data Transformation!!
+2021-12-01/13:55:56		DataTransform Complete!!
+2021-12-01/13:55:56		Creating Training Database and table on the basis of given schema!!
+2021-12-01/13:55:56		Table creation completed!!
+2021-12-01/13:55:56		Insertion of data into table started!!!!
+2021-12-01/13:58:42		Insert in table completed!!
+2021-12-01/13:58:42		Deleting Good Data Folser!!
+2021-12-01/13:58:42		Good data Folder Deleted!!!
+2021-12-01/13:58:42		Moving Bad files to Archive and Deleting Bad data folder!!!
+2021-12-01/13:58:42		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/13:58:42		validation operation completed!!
+2021-12-01/13:58:42		Extracting csv files from table
+2021-12-01/16:14:34		Start of validation on files!!
+2021-12-01/16:14:42		Raw Data Validation Complete!!
+2021-12-01/16:14:42		Starting Data Transformation!!
+2021-12-01/16:14:49		DataTransform Complete!!
+2021-12-01/16:14:49		Creating Training Database and table on the basis of given schema!!
+2021-12-01/16:14:49		Table creation completed!!
+2021-12-01/16:14:49		Insertion of data into table started!!!!
+2021-12-01/16:17:28		Insert in table completed!!
+2021-12-01/16:17:28		Deleting Good Data Folser!!
+2021-12-01/16:17:28		Good data Folder Deleted!!!
+2021-12-01/16:17:28		Moving Bad files to Archive and Deleting Bad data folder!!!
+2021-12-01/16:17:28		Bad files moved to archive!! Bad folder deleted!!
+2021-12-01/16:17:28		validation operation completed!!
+2021-12-01/16:17:28		Extracting csv files from table
+2021-12-02/07:39:36		Start of validation on files!!
+2021-12-02/07:39:43		Raw Data Validation Complete!!
+2021-12-02/07:39:43		Starting Data Transformation!!
+2021-12-02/07:39:52		DataTransform Complete!!
+2021-12-02/07:39:52		Creating Training Database and table on the basis of given schema!!
+2021-12-02/07:39:52		Table creation completed!!
+2021-12-02/07:39:52		Insertion of data into table started!!!!
+2021-12-02/07:42:27		Insert in table completed!!
+2021-12-02/07:42:27		Deleting Good Data Folser!!
+2021-12-02/07:42:27		Good data Folder Deleted!!!
+2021-12-02/07:42:27		Moving Bad files to Archive and Deleting Bad data folder!!!
+2021-12-02/07:42:27		Bad files moved to archive!! Bad folder deleted!!
+2021-12-02/07:42:27		validation operation completed!!
+2021-12-02/07:42:27		Extracting csv files from table

@@ -1,0 +1,17 @@
+2021-12-01/08:49:17		Error while creating table: unable to open database file 
+2021-12-01/08:49:33		Error while creating table: unable to open database file 
+2021-12-01/08:54:52		Error while creating table: unable to open database file 
+2021-12-01/08:55:05		Error while creating table: unable to open database file 
+2021-12-01/08:55:21		Error while creating table: unable to open database file 
+2021-12-01/09:47:36		Table Created Successfully!!
+2021-12-01/09:56:28		Table created successufully!!
+2021-12-01/09:56:38		Table created successufully!!
+2021-12-01/09:58:24		Table created successufully!!
+2021-12-01/09:58:50		Table created successufully!!
+2021-12-01/09:59:25		Table created successufully!!
+2021-12-01/11:51:53		Table created successufully!!
+2021-12-01/11:59:52		Table created successufully!!
+2021-12-01/13:18:25		Table created successufully!!
+2021-12-01/13:55:56		Table created successufully!!
+2021-12-01/16:14:49		Table created successufully!!
+2021-12-02/07:39:52		Table created successufully!!
